@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("git is already to work!");
         System.out.println("third test!");
         System.out.println("host-fix正常合并");
+        System.out.println("push test!");
     }
 }
