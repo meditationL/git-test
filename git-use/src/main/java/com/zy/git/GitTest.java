@@ -8,5 +8,7 @@ public class GitTest {
         System.out.println("host-fix正常合并");
         System.out.println("push test!");
         System.out.println("pull test!");
+        System.out.println("second push test!");
+
     }
 }
